@@ -1,4 +1,4 @@
-#HEDING
+#HEADING
 
 
-Demo repo created using terminal.
+Demo repo created using terminal!
